@@ -1,0 +1,24 @@
+_repo: The-Letter-Bag-of-Lady-Elizabeth-Spencer-Stanhope-Volume-1_7253
+contributor:
+  compiler:
+    agent_name: Stirling, A. M. W. (Anna Maria Wilhelmina)
+    alias: Stirling, Anna Maria Diana Wilhelmina
+    birthdate: 1865
+    deathdate: 1965
+    gutenberg_agent_id: '2395'
+    url: http://www.gutenberg.org/2009/agents/2395
+description: ''
+gutenberg_issued: '2005-01-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '7253'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Great Britain -- Social life and customs -- 19th century'
+- !lcc 'DA'
+- !lcsh 'Spencer-Stanhope, Elizabeth Wilhelmina Coke, Lady, 1795-1873'
+title: The Letter-Bag of Lady Elizabeth Spencer-Stanhope — Volume 1
+url: http://www.gutenberg.org/ebooks/7253
